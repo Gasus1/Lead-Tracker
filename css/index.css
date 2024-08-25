@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
+#input-btn {
+    font: inherit;
+    border: none;
+    cursor: pointer;
+    padding: 5px 20px;
+    font-weight: bold;
+    background-color: #5f9341;
+    color: white;
+}
+
+#input-el {
+    display: block;
+    height: 50px;
+    width: 100%;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size: 1.25rem;
+    border: 2px solid #5f9341;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
