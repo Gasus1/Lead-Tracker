@@ -31,3 +31,16 @@ body {
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
+ul {
+    margin-top: 1.5rem;
+    list-style-type: none;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    color: #5f9341;
+}
